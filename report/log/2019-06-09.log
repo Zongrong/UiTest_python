@@ -1,0 +1,39 @@
+2019-06-09 17:58:36,850 - root - INFO - ################################################ This App Cases Start ################################################
+2019-06-09 17:58:42,425 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.573209524154663 seconds
+2019-06-09 17:58:43,554 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.127450942993164 seconds
+2019-06-09 17:59:08,275 - root - INFO - SUCCESS    Navigated to https://github.com/login, Spend 24.719547510147095 seconds
+2019-06-09 17:59:08,732 - root - INFO - SUCCESS    Clear and type element: <id->login_field> content: xxx, Spend 0.455186128616333 seconds
+2019-06-09 17:59:09,177 - root - INFO - SUCCESS    Clear and type element: <id->password> content: xxx, Spend 0.44465112686157227 seconds
+2019-06-09 17:59:13,358 - root - INFO - SUCCESS    Clicked element: <name->commit>, Spend 4.177661180496216 seconds
+2019-06-09 17:59:16,381 - root - INFO - SUCCESS    Get current window title, Spend 0.018933773040771484 seconds
+2019-06-09 17:59:16,385 - root - INFO - 成功登录GitHub
+2019-06-09 17:59:16,390 - root - INFO - ----开始测试myRepository页面部分功能----
+2019-06-09 17:59:22,116 - root - INFO - SUCCESS    Clicked element: <xpath->//a[@class='btn btn-sm btn-primary text-white']>, Spend 3.7218503952026367 seconds
+2019-06-09 17:59:25,483 - root - INFO - SUCCESS    Get current window title, Spend 0.004997730255126953 seconds
+2019-06-09 17:59:25,486 - root - INFO - SUCCESS    Set wait all element display in 2 seconds, Spend 0.0009992122650146484 seconds
+2019-06-09 17:59:26,094 - root - INFO - SUCCESS    Clear and type element: <id->repository_name> content: testlzr, Spend 0.6056511402130127 seconds
+2019-06-09 17:59:28,971 - root - INFO - SUCCESS    Clear and type element: <id->repository_description> content: Testing to create a repository, Spend 1.3751788139343262 seconds
+2019-06-09 17:59:30,588 - root - INFO - SUCCESS    Clicked element: <id->repository_visibility_private>, Spend 0.1126101016998291 seconds
+2019-06-09 17:59:34,745 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="new_repository"]/div[3]/button>, Spend 2.655435562133789 seconds
+2019-06-09 17:59:39,223 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0804283618927 seconds
+2019-06-09 17:59:39,228 - root - INFO - ################################################ This App Cases End ################################################
+2019-06-09 17:59:39,232 - root - INFO - ################################################ This App Cases Start ################################################
+2019-06-09 17:59:44,635 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.399149656295776 seconds
+2019-06-09 17:59:45,764 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1281371116638184 seconds
+2019-06-09 17:59:58,839 - root - INFO - SUCCESS    Navigated to https://github.com/login, Spend 13.072964668273926 seconds
+2019-06-09 17:59:59,350 - root - INFO - SUCCESS    Clear and type element: <id->login_field> content: xxx, Spend 0.5087368488311768 seconds
+2019-06-09 17:59:59,786 - root - INFO - SUCCESS    Clear and type element: <id->password> content:xxx, Spend 0.43500232696533203 seconds
+2019-06-09 18:00:05,463 - root - INFO - SUCCESS    Clicked element: <name->commit>, Spend 5.674398183822632 seconds
+2019-06-09 18:00:08,484 - root - INFO - SUCCESS    Get current window title, Spend 0.016962289810180664 seconds
+2019-06-09 18:00:08,489 - root - INFO - 成功登录GitHub
+2019-06-09 18:00:08,494 - root - INFO - ----开始测试repository详情页面功能----
+2019-06-09 18:00:11,660 - root - INFO - SUCCESS    Clicked element: <xpath->//span[@title="testlzr"]>, Spend 1.1621863842010498 seconds
+2019-06-09 18:00:12,602 - root - INFO - SUCCESS    Get element text element: <css->#js-repo-pjax-container > div.pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav > div > h1>, Spend 0.036966562271118164 seconds
+2019-06-09 18:00:14,722 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="js-repo-pjax-container"]/div[1]/nav/a[4]>, Spend 0.11922955513000488 seconds
+2019-06-09 18:00:17,593 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="options_bucket"]/div[9]/ul/li[4]/details/summary>, Spend 1.3482582569122314 seconds
+2019-06-09 18:00:19,085 - root - INFO - SUCCESS    Clear and type element: <xpath->//*[@id="options_bucket"]/div[9]/ul/li[4]/details/details-dialog/div[3]/form/p/input> content: testlzr, Spend 0.490708589553833 seconds
+2019-06-09 18:00:23,300 - root - INFO - SUCCESS    Clicked element: <xpath->//*[@id="options_bucket"]/div[9]/ul/li[4]/details/details-dialog/div[3]/form/button>, Spend 1.7126200199127197 seconds
+2019-06-09 18:00:26,731 - root - INFO - SUCCESS    Get element text element: <css->#dashboard > div > div.Box.p-5.mt-3 > h2>, Spend 0.034979820251464844 seconds
+2019-06-09 18:00:29,818 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.083679437637329 seconds
+2019-06-09 18:00:29,823 - root - INFO - ################################################ This App Cases End ################################################
+2019-06-09 18:00:48,590 - root - ERROR - 发送邮件失败
